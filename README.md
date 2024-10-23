@@ -137,4 +137,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-Made with ❤️ for the social media automation community
+Made with ❤️ for the Creative Coders Consortium (C³) community
